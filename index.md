@@ -7,7 +7,7 @@ title: Rajasthan Leaders Association - Together We Rise
 
 **An Initiative from Academicians of DU & JNU** [cite: 1]
 
-![RLA Logo](assets/images/logo.png)  __
+![RLA Logo](assets/logo.png)  __
 
 ## Winds for Change - Future Leaders [cite: 1]
 
